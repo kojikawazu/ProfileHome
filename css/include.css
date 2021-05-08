@@ -1,0 +1,20 @@
+/* cssインポート */
+@import url("header.css");
+@import url("footer.css");
+
+/* 共通 */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Hiragino Sans W3", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  background-color: #fff5f0;
+}
+
+.main{
+  margin-top: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
